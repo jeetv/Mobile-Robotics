@@ -5,3 +5,10 @@
 ![Sample1](Assignment_1/misc/git_sample1.PNG)
 2. Rotations, Euler angles and Gimbal Lock
 ![Sample1](Assignment_1/misc/git_sample3.gif)
+
+
+## Assignment 2 -
+1. Point Cloud Registration
+![Sample3](Assignment_2/data/output_data/pointcloud_registration.PNG)
+2. Occupancy Grid Construction
+![Sample3](Assignment_2/data/output_data/Final_OMap_15_bins.PNG)

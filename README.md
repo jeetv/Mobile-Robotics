@@ -11,5 +11,4 @@
 1. Point Cloud Registration
 ![Sample3](Assignment_2/data/output_data/pointcloud_registration.png)
 2. Occupancy Grid Construction
-
-![Sample3](Assignment_2/data/output_data/Final_OMap_15_bins.png)
+![Sample3](Assignment_2/data/output_data/Final_OMap_15_bins.png =500*500)

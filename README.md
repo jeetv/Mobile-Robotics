@@ -22,4 +22,4 @@
 ## Assignment 4 -
 1. Camera Calibration - Direct Linear Transform(DLT), Zhang's Method
 2. Epipolar Lines
-img src="Assignment_4/Sample.png"/>
+<img src="Assignment_4/Sample.PNG" />

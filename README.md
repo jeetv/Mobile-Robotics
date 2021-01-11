@@ -36,9 +36,8 @@
 
 ## Project 2 - 
 1. Stereo dense reconstruction
-<img src="Project/Project2/Output1.PNG" />
-<img src="Project/Project2/Output2.PNG" />
-<img src="Project/Project2/Output3.PNG" />
+<img src="Project/Project2/output1.PNG" />
+<img src="Project/Project2/output2.PNG" />
+<img src="Project/Project2/output3.PNG" />
 2. Motion estimation using iterative PnP
 <img src="Project/Project2/sample.PNG" />
-<img src="Project/Project1/Sphere2_G2O.png" />

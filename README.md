@@ -15,6 +15,11 @@
 
 ## Assignment 3 -
 1. Iteractive Closest Point
-<img src="Assignment_3/misc/sample1.png">
+<img src="Assignment_3/misc/sample1.PNG"/>
 2. Non-linear least squares optimization
-<img src="Assignment_3/misc/sample2.png">
+<img src="Assignment_3/misc/sample2.PNG"/>
+
+## Assignment 4 -
+1. Camera Calibration - Direct Linear Transform(DLT), Zhang's Method
+2. Epipolar Lines
+img src="Assignment_4/Sample.png"/>

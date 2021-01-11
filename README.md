@@ -27,7 +27,7 @@
 # Project 
 ## Project 1 - Pose Graph Optimization 
 1. Pose Graph Optimization for 2D SLAM
-<img src="Project/Project1/misc/Sample.PNG" />
+<img src="Project/Project1/misc/sample.PNG" />
 <img src="Project/Project1/misc/traj.png" />
 2. Optimizing intel and sphere datasets using G2O
 <img src="Project/Project1/misc/Intel_G2O.png" />
